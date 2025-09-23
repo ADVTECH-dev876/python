@@ -7,3 +7,5 @@ for x in "banana":
 
 a = "Hello, World!"
 print(len(a))
+txt = "The best things in life are free!"
+print("free" in txt)/*in key word*/
